@@ -33,4 +33,4 @@
 
 ## Status
 
-*🚧 Concept / UI Design Phase* — Feel free to check out the screens and drop feedback or suggestions in the issues tab!
+*Concept / UI Design Phase* — Feel free to check out the screens and drop feedback or suggestions in the issues tab!
