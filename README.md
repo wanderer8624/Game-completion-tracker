@@ -8,7 +8,7 @@
 
 | Desktop View | Tablet View | Mobile View |
 | :---: | :---: | :---: |
-| ![Desktop View](./assets/Active%20game%20dashboard.png) | ![Tablet View](./assets/Dossier%20content.png) | ![Mobile View](./assets/Dossier%20content(1).png) |
+| ![Desktop View](./assets/Active%20game%20dashboard.png) | ![Tablet View](./assets/Dossier%20content.png) | ![Mobile View](./assets/Dossier%20content%20(1).png) |
 
 🔗 **[View Figma Design File](https://www.figma.com/design/bdF3wf2NT1nKPKcsQY4HCC/Untitled?node-id=3-1349&m=dev&t=vrHCWWfzbZ0LwHby-1)**
 
