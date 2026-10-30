@@ -1,33 +1,33 @@
-# PHANTOM — Game Completion & Progress Tracker
+# 🛡️ PHANTOM — Game Completion & Progress Tracker
 
 > A sleek, tactical game tracker UI designed for completionists. Keep precise tabs on your story progression, collectibles, optional objectives, and achievements without breaking immersion.
 
 ---
 
-## Design Preview & Links
+## 🎨 Design Preview & Links
 
-## Desktop UI
+| Desktop View | Tablet View | Mobile View |
+| :---: | :---: | :---: |
+| ![Desktop View](./assets/Active%20game%20dashboard.png) | ![Tablet View](./assets/Dossier%20content.png) | ![Mobile View](./assets/Dossier%20content(1).png) |
 
-
-
-🔗 **[View Figma Design File]([(https://www.figma.com/design/bdF3wf2NT1nKPKcsQY4HCC/Untitled?node-id=15-1393&m=dev&t=vrHCWWfzbZ0LwHby-1))**
-
----
-
-## Features
-
-* **Granular Tracking:** Break down completion by story progress, hidden collectibles, side quests, and achievements.
-* **Tactical UI/UX:** Dark-mode-first interface inspired by tactical military HUDs and classic terminal design.
-* **Active Objectives & Logs:** Keep track of your next immediate missions and a searchable field log of completed tasks.
-* **Playtime & Stats:** Real-time logging of hours played, completion percentages, and weighted milestone calculations.
+🔗 **[View Figma Design File](https://www.figma.com/design/bdF3wf2NT1nKPKcsQY4HCC/Untitled?node-id=3-1349&m=dev&t=vrHCWWfzbZ0LwHby-1)**
 
 ---
 
-## Design System & Tech Stack
+## 🎯 Features
 
-* **Tool:** Figma
-* **Theme:** Tactical Military Dark (Olive Drab `#2E382A`, Deep Charcoal, Monospace accents)
-* **Typography:** Clean sans-serif with high-legibility data displays
+- **Granular Tracking:** Break down completion by story progress, hidden collectibles, side quests, and achievements.
+- **Tactical UI/UX:** Dark-mode-first interface inspired by tactical military HUDs and classic terminal design.
+- **Active Objectives & Logs:** Keep track of your next immediate missions and a searchable field log of completed tasks.
+- **Playtime & Stats:** Real-time logging of hours played, completion percentages, and weighted milestone calculations.
+
+---
+
+## 🛠️ Design System & Tech Stack
+
+- **Tool:** Figma
+- **Theme:** Tactical Military Dark (Olive Drab `#2E382A`, Deep Charcoal, Monospace accents)
+- **Typography:** Clean sans-serif with high-legibility data displays
 
 ---
 
