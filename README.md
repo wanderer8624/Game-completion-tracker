@@ -1,20 +1,20 @@
-# 🛡️ PHANTOM — Game Completion & Progress Tracker
+# PHANTOM — Game Completion & Progress Tracker
 
 > A sleek, tactical game tracker UI designed for completionists. Keep precise tabs on your story progression, collectibles, optional objectives, and achievements without breaking immersion.
 
 ---
 
-## 🎨 Design Preview & Links
+## Design Preview & Links
 
-| Desktop View | Tablet & Mobile Views |
-| :---: | :---: |
-| ![Desktop View](./assets/desktop-preview.png) | ![Responsive Views](./assets/mobile-preview.png) |
+## Desktop UI
 
-🔗 **[View Figma Design File](https://www.figma.com/file/YOUR_FIGMA_FILE_LINK_HERE)**
+
+
+🔗 **[View Figma Design File]([(https://www.figma.com/design/bdF3wf2NT1nKPKcsQY4HCC/Untitled?node-id=15-1393&m=dev&t=vrHCWWfzbZ0LwHby-1))**
 
 ---
 
-## 🎯 Features
+## Features
 
 * **Granular Tracking:** Break down completion by story progress, hidden collectibles, side quests, and achievements.
 * **Tactical UI/UX:** Dark-mode-first interface inspired by tactical military HUDs and classic terminal design.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Design System & Tech Stack
+## Design System & Tech Stack
 
 * **Tool:** Figma
 * **Theme:** Tactical Military Dark (Olive Drab `#2E382A`, Deep Charcoal, Monospace accents)
