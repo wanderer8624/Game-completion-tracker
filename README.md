@@ -2,7 +2,15 @@
 
 > A sleek, tactical game tracker UI designed for completionists. Keep precise tabs on your story progression, collectibles, optional objectives, and achievements without breaking immersion.
 
-![PHANTOM UI Preview](./path-to-your-screenshot.jpg) <!-- Replace with your image link -->
+---
+
+## 🎨 Design Preview & Links
+
+| Desktop View | Tablet & Mobile Views |
+| :---: | :---: |
+| ![Desktop View](./assets/desktop-preview.png) | ![Responsive Views](./assets/mobile-preview.png) |
+
+🔗 **[View Figma Design File](https://www.figma.com/file/YOUR_FIGMA_FILE_LINK_HERE)**
 
 ---
 
@@ -17,9 +25,9 @@
 
 ## 🛠️ Design System & Tech Stack
 
-* **Tool:** Figma / UI Design
+* **Tool:** Figma
 * **Theme:** Tactical Military Dark (Olive Drab `#2E382A`, Deep Charcoal, Monospace accents)
-* **Typography:** Clean sans-serif with high-legibility data displays.
+* **Typography:** Clean sans-serif with high-legibility data displays
 
 ---
 
